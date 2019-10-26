@@ -1,0 +1,2418 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1068734378"
+          },
+          "name": {
+            "label": "Cincy D"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.1"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4720036310"
+        },
+        "title": {
+          "label": "🗣Wish there would be a code function"
+        },
+        "content": {
+          "label": "I would be appreciate it if there is a code to lock my dairy and secret notes up. It’s kinda practical and I wish you guys consider ing 🗣",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id133558313"
+          },
+          "name": {
+            "label": "Pandorum98"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.1"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4713662728"
+        },
+        "title": {
+          "label": "GoodNotes 5"
+        },
+        "content": {
+          "label": "Never used an iPad for notes before, but I have to say this app works well. I enjoy the ability to insert text and photos. The blow up feature is nice if your trying to fit small notes or edit a current note. Wish I could really fine tune how small I want my my writing to be. 0.5 Increments is still pretty good.  The only other thing is, I would like a a bit of a tutorial on how to use some of the options. Like the laser pointer feature or why I can’t write while the screen is full screen. Also wish it was smoother when making a new page.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id483861824"
+          },
+          "name": {
+            "label": "Taisaacs95"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4711672404"
+        },
+        "title": {
+          "label": "Please fix the zoom function, moving screen, and straight lines"
+        },
+        "content": {
+          "label": "The \"automatic zoom\" feature is turned off but I still have this issue where the screen moves while using the text box function and keyboard.\n\nI don't see very well and I cannot write for very long. I am an artist and own the Apple Pencil but most of my note taking is done via keyboard and textboxes. To input notes, I take a small portion of the screen and zoom into it. However, when the keyboard appears, the screen moves to the middle of the document? You can no longer see what is going on. Especially if you are in putting text boxes near the bottom if the screen. It's annoying. I wish this app would give a work space similar to procreate, where you could zoom in and out of any corner of the page.\n\nAlso, the straight line function is no longer disability or shaky hand friendly. For various reasons,I cannot draw in a straight line or make perfect circles, blocks, etc. The straight line function was great because it didn't matter how shaky my hands and body got, it would be a straight line. It was a really stable app. But now GoodNotes 5 no longer corrects lines as strictly. Sometimes it corrects lines, other times it doesn't. Maybe they assume I'm drawing or am purposefully making obscure lines and shapes. But I'm not. GoodNotes was once a great option for assistive tech but not anymore. Please give people the option for strict line correction.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1067919377"
+          },
+          "name": {
+            "label": "Felis Auroras"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4711473279"
+        },
+        "title": {
+          "label": "So handy!"
+        },
+        "content": {
+          "label": "Started using it for school after watching a calculus classmate using it for taking notes, over the course of a couple of days. It makes note taking much easier, cleaner and more organized.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id548019015"
+          },
+          "name": {
+            "label": "7 years of bad luck"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4711092183"
+        },
+        "title": {
+          "label": "Please add recording"
+        },
+        "content": {
+          "label": "If I were able to record lectures using good notes I wouldn’t need any other apps!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id526435762"
+          },
+          "name": {
+            "label": "achiesiobe30"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4710720609"
+        },
+        "title": {
+          "label": "No Search Ability"
+        },
+        "content": {
+          "label": "This app was really great on the start and got it because one of the features allowed me to search my notes. But since it cannot recognize handwriting I am unable to find notes that I wrote and have to scroll through the whole document just to find the little notes I write. If Good Notes could only recognize type written notes, it should have been more clear about this from the beginning.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id929810787"
+          },
+          "name": {
+            "label": "readyppppp"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4707447792"
+        },
+        "title": {
+          "label": "Nice app but not nice for OneDriver"
+        },
+        "content": {
+          "label": "Still no support for OneDrive? Seriously?",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id914607077"
+          },
+          "name": {
+            "label": "Captaiin Erin"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4706382619"
+        },
+        "title": {
+          "label": "Makes school so much easier"
+        },
+        "content": {
+          "label": "I am a college senior, and I love this app!! I wish I would have thought to take my notes digital YEARS ago!!! The app is easy to use and navigate.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id546681522"
+          },
+          "name": {
+            "label": "@lowkey_vu"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4705292885"
+        },
+        "title": {
+          "label": "Awesome"
+        },
+        "content": {
+          "label": "I decided to go paperless. I got an iPad Pro and downloaded this app I  use it as a form to keep all my notes with me and it also helps me with organization. I recommend this app.perfect for a minimalistic person that wants to have everything on hand . Uni student approved",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id166187580"
+          },
+          "name": {
+            "label": "정만잉"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4704252130"
+        },
+        "title": {
+          "label": "다 좋은데 녹음기능까지 넣어주시면 좋겠어요"
+        },
+        "content": {
+          "label": "강의들을때 녹음기능 없어서 너무불편합니다 ㅜㅜ",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id31161548"
+          },
+          "name": {
+            "label": "Barreda Family"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4703976146"
+        },
+        "title": {
+          "label": "I love GoodNotes 5, but..."
+        },
+        "content": {
+          "label": "I love this app.  I do all my school notes and I’ve had no reason to buying anymore notebooks and pens (which I’m very sad about).  The one thing that is starting to get annoying is that the “zoom” feature and sometimes the “zoom/paste” keeps popping up as I start writing.  It doesn’t matter how my palm is or how much I reset the palm detection feature, it keeps popping up.  I even try to write so that my palm isn’t touching the screen.  It’s getting to be very frustrating because it stops me mid sentence.  If this can be removed it would be perfect because then I can take my notes without interruption.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id85495092"
+          },
+          "name": {
+            "label": "Goinglose100lbs"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4703776408"
+        },
+        "title": {
+          "label": "Love this App"
+        },
+        "content": {
+          "label": "I love that I can import by documents and write and highlight in them.  So glad I found this app cause I’ve wanted to have a digital daily and financial planner in one place and now I can",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1066926137"
+          },
+          "name": {
+            "label": "CMarieDem"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4702904483"
+        },
+        "title": {
+          "label": "If it just didn’t crash all the time"
+        },
+        "content": {
+          "label": "I LOOOVE this app, specifically for digital planners. My only complaint is that it crashes a lot. Thankfully it auto-saves so I haven’t lost much, but it’s still annoying.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id239094262"
+          },
+          "name": {
+            "label": "KatieH1986"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4702671355"
+        },
+        "title": {
+          "label": "Love but hate"
+        },
+        "content": {
+          "label": "I got my iPad about a month ago to use specifically for digital planning. Before I purchased it I had heard about this app and how it was great to use for planning. So, I purchased this app as soon as I got my iPad and I love the organization of it but almost hate using it entirely because of the lagging. I probably would not have purchased this app if I would have known it lagged this bad. Seriously it is terrible. And it pixelates when zooming really bad and takes forever to focus.  I hear GoodNotes 4 is better, but I just don’t see spending more money on a older version. Can this please be fixed? While using this app in the middle of typing or writing the app will just close out on me. It’s pretty ridiculous. Other than this one complaint I love it. But this one complaint is enough to make me not want to use it at all and would not recommend it to others. If this could be fixed I would give 5 stars and shout it from the rooftops that this app is amazing. \n\nI hope the developer can get this fixed soon.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id182804145"
+          },
+          "name": {
+            "label": "shadyam"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4702176162"
+        },
+        "title": {
+          "label": "Great app but needs small features to be perfect"
+        },
+        "content": {
+          "label": "I love everything about this app. I tried most note taking apps and this one seemed the best. One of the great features that need to be improved is converting handwriting to text. Right now it just converts it in a window that you can export or copy. But it would be a lot more useful if handwriting can be converted into the original sheet to replace the handwriting and also have the ability to revert back to handwriting. Also would be nice to have more color choices in the top bar instead of just 3 that need to be changed every time a fourth color is needed.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id529558837"
+          },
+          "name": {
+            "label": "Sergeant_Smidget"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4697914559"
+        },
+        "title": {
+          "label": "Love It"
+        },
+        "content": {
+          "label": "I really love this app. It’s incredibly intuitive and easy to use. I think it would be really neat if they added a way to group pages in a notebook together for better organization instead of making another one.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id758362526"
+          },
+          "name": {
+            "label": "MaxCriux"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4697655243"
+        },
+        "title": {
+          "label": "If you are taking notes like a student this is the best app"
+        },
+        "content": {
+          "label": "I am patiently waiting for this app to come to windows 10!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1064753057"
+          },
+          "name": {
+            "label": "JD Slug27"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4697278782"
+        },
+        "title": {
+          "label": "Amazing Note Taking App"
+        },
+        "content": {
+          "label": "The app is very good. The writing feels great, the quantity of tools at our disposal to make great notes is amazing. I like the apps method of organizing all my notes and folders. It is more intuitive and appealing. I would give it 5 stars if it had the capability of recording audio as I write notes like notability. If I can avoid having to write on paper to do all my work on this app, I will.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id145386226"
+          },
+          "name": {
+            "label": "mitchgolden"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4697066240"
+        },
+        "title": {
+          "label": "Please implement split screen feature!"
+        },
+        "content": {
+          "label": "This is a great app, but one feature that seems to be sorely lacking is the ability to work on two documents side by side. Not having this feature forces me to split screen with a competing app, when I’d rather be using GoodNotes for everything.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id458747921"
+          },
+          "name": {
+            "label": "lour pro"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4696763831"
+        },
+        "title": {
+          "label": "使いやすい"
+        },
+        "content": {
+          "label": "今年アメリカの大学に行くことになったので、iPad proを買ってみました。で〜今年のクラスみんなは本も、宿題も、勉強も 全部紙、本なしでやってます。すごく助かります。\nで、クラスに使うことになったのはこの goodnotesです。すごく助かる。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id29500962"
+          },
+          "name": {
+            "label": "Msagman"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4696622656"
+        },
+        "title": {
+          "label": "Don’t buy until auto backup restored"
+        },
+        "content": {
+          "label": "While the tool is very useful, GoodNotes eliminated auto-backup in Version 5...because it is “hard to program”. I have been told they are working on restoring it, yet they did not in their latest release.  Manual backup is available, yet it takes a long time a fails if you let the app sleep too long.   Without the auto backup feature, you risk loosing everything you work on.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id463866746"
+          },
+          "name": {
+            "label": "rattyrattie"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4696499302"
+        },
+        "title": {
+          "label": "Backup needs to be seamless across cloud storages!!"
+        },
+        "content": {
+          "label": "I love GoodNotes 4 but I’m having some trouble with the backup for this new version. It backs up seamlessly to iCloud but I am a worrier so I like to have multiple platforms. I can’t seem to back it up seamlessly to google drive like GN4. I love what they’ve done to the toolbar, and it makes the task of working in the app more enjoyable. But overall, if it fails to automatically update and have those saved files be compatible with multiple cloud storage services, then what is the point? I’m a student and things happen. I can’t rely on one cloud and I won’t do it. Also, a recording feature would be lovely! These two things are the only things tempting me to Notability, but I don’t want to change apps so please, fix this!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id40203176"
+          },
+          "name": {
+            "label": "ElliotMaxxxxxx"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4696358847"
+        },
+        "title": {
+          "label": "No iCloud “Files” support! 😡"
+        },
+        "content": {
+          "label": "I bought this app yesterday and really enjoyed using it for taking notes in school with my iPad and Apple Pencil. However, I could not believe that goodnotes does not support access within iCloud “Files!!!” I need to be able to comfortably and securely save and sync my notes in a designated goodnotes folder within my iCloud Files and so therefore this MAJOR deficiency is a dealbreaker for me. I can no longer use goodnotes. Please fix this developers!!!!!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id24609"
+          },
+          "name": {
+            "label": "ipodtouch419"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4695455238"
+        },
+        "title": {
+          "label": "No password protection YET??!!"
+        },
+        "content": {
+          "label": "Whyyyy aren’t you adding this feature after years of being asked for it by your users? That’s what considerate and good developers do. It’s the only thing keeping me from singing utmost praises about this almost amazing app! See Notability and Noteshelf for starters. Pretty please?!? 🙏🏻",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id125967808"
+          },
+          "name": {
+            "label": "Therapy and bujo"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4693541725"
+        },
+        "title": {
+          "label": "Not worth the money"
+        },
+        "content": {
+          "label": "I work as a therapist and enjoy bullet journaling so I bought this after buying an Apple Pencil. It’s okay for taking and marking up notes. There is no handwriting-to-text converter within the system... You must export the converted text. I haven’t given it an honest effort to use for bullet journaling, but the little I tried wasn’t immediately satisfying.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id319664511"
+          },
+          "name": {
+            "label": "Christina Hyde"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4692608774"
+        },
+        "title": {
+          "label": "Newest update has a lag..."
+        },
+        "content": {
+          "label": "Love this app, but after 5.2 update there is a pretty annoying lag while using apple pencil. Never had a problem before and the feedback time from pencil to ipad was very quick... now it is slower. Please fix this",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id27588854"
+          },
+          "name": {
+            "label": "really big pug"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4692533727"
+        },
+        "title": {
+          "label": "Amazing app!"
+        },
+        "content": {
+          "label": "This app is perfect for work and personal efficiency. The connectivity between devices makes using the app smooth and easy. \nFour stars? I wish there were collaborative functions like google sheets",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id192112441"
+          },
+          "name": {
+            "label": "Ping L."
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4691626227"
+        },
+        "title": {
+          "label": "Audio recordings"
+        },
+        "content": {
+          "label": "Could you add the feature which can do audio recordings?",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id502774880"
+          },
+          "name": {
+            "label": "simplaya0411"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4691367282"
+        },
+        "title": {
+          "label": "Amazing"
+        },
+        "content": {
+          "label": "I recently just switch from taking my notes on paper to taking them digitally and it’s the best thing that i ever done. I love GoodNotes because of the organization that I am able to get with it. And once I was able to practice writing more my hand writing actually looks better than my handwriting on paper. I’m a college student and I love that I am able to access notes from all my devices. I have both notability and GoodNotes and I have been using the both of them, but I 100% rely on GoodNotes to take my notes for class. The overall layout is better to me! Thank you GoodNotes!! I",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id165778991"
+          },
+          "name": {
+            "label": "I2 Under taker"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4691313981"
+        },
+        "title": {
+          "label": "More paper colors"
+        },
+        "content": {
+          "label": "Okay so this might not be what a lot of people think they’d want, but there is nothing preventing you guys from adding black paper as an option, it’s literally just a background color but it’s so much better than just white and yellow. It’s hard to get good quality black paper for writing (not drawing) purposes, please take this as an opportunity to be more amazing digitally. White brush pen on black paper.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1066308097"
+          },
+          "name": {
+            "label": "kai-greee n"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4690676578"
+        },
+        "title": {
+          "label": "Amazing"
+        },
+        "content": {
+          "label": "Amazing",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id35973566"
+          },
+          "name": {
+            "label": "Mzzzjuicy"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4690490978"
+        },
+        "title": {
+          "label": "LOOOOVE"
+        },
+        "content": {
+          "label": "I have always loved using planners,decorating my weeks and ToDo’s. I have tried soo many, I mean almost all available on the App Store. Now that Digital planners are much more convenient, I couldn’t have made a better decision with Good Notes5. Easy to use. Fun to use and overall exceptional.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id272989424"
+          },
+          "name": {
+            "label": "GoodNotesUser231"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4690078275"
+        },
+        "title": {
+          "label": "Eraser doesn’t remove pen marks after latest update"
+        },
+        "content": {
+          "label": "My copy of GoodNotes was working fine until the latest update where I found that the eraser would only work to remove the highlighter tool. I can circle the pen marks and select the delete option to remove the pen marks but I would much rather use the eraser tool.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id134979167"
+          },
+          "name": {
+            "label": "Demetrius_Six"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4689583344"
+        },
+        "title": {
+          "label": "Awesome"
+        },
+        "content": {
+          "label": "Finally an app that melds into my workflow. I appreciate the flexibility and versatility. I use it for everything.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id106092507"
+          },
+          "name": {
+            "label": "W.C.White"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4689582008"
+        },
+        "title": {
+          "label": "Good App"
+        },
+        "content": {
+          "label": "I enjoy the work",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id413117198"
+          },
+          "name": {
+            "label": "jbar14"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4688719745"
+        },
+        "title": {
+          "label": "I love it"
+        },
+        "content": {
+          "label": "I low key bought my iPad specifically bc I wanted this app. And let me say I was not disappointed. The only possible way this app could be better for me is if it had a writing to text or some way to clean my writing up bc I don’t like the way mines looks. Otherwise I have no complaints!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id498683328"
+          },
+          "name": {
+            "label": "@developers"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4688527952"
+        },
+        "title": {
+          "label": "Can’t Switch Over Yet, Still Needs Improvement!"
+        },
+        "content": {
+          "label": "***UPDATE: UP 1 TO 3 STARS, KEEP GOING DEVELOPERS!*** \n\nMANY problems have been worked on which is great! I finally felt confident enough in my ability to keep up my same standard of work in GN5 that I made the switch and learned how to import my documents just fine.\n\nThere is still not as seamless of a writing experience as in the older app which continues to be disappointing but if it keeps improving I’m sure we’ll get there very soon!\n\nThings that are still issues:\n\n- when writing, the first stroke of whatever I am writing will cut off often and leave a flat surface instead of curved which leaves the work looking unprofessional and definitely not the precise writing experience one expects\n\n- writing in the zoom box is somewhat challenging because it will jump back over your old text instead of continuing across the page AND there’s no undo button anymore still so no easy way to correct this mistake. One or both need to be fixed.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id29326707"
+          },
+          "name": {
+            "label": "Annot8"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4688441607"
+        },
+        "title": {
+          "label": "More flexible than I expected"
+        },
+        "content": {
+          "label": "Imported several pdf documents - love the markup ability. Example: clipped the NYT crossword puzzle from my daily newspaper’s e-edition, imported into GoodNotes 5 as pdf, and was able to fill in the squares to solve the puzzle. Trying Commit30 templates in lieu of a paper Franklin planner for a few months to see if I can go all-digital. So far, creating documents is great on the iPad, not so great on the iPhone. Reading on the iPhone is adequate for reference to already-created documents.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1015128489"
+          },
+          "name": {
+            "label": "moonlunatic"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4687379634"
+        },
+        "title": {
+          "label": "Overall Okay"
+        },
+        "content": {
+          "label": "Some missing features, but my main issue with Goodnotes is the interface takes up too much screen space...",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id280016803"
+          },
+          "name": {
+            "label": "Jared, Mo"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4687138902"
+        },
+        "title": {
+          "label": "I don’t like GoodNotes5"
+        },
+        "content": {
+          "label": "Even though it’s developed I still think that it’s not better than GoodNotes4.\n\nOne of the reasons the way that my notes are displayed.\n\nAnd GoodNotes4, my notes are organized in different shelves and categories just like a bookshelf. This is a good way for notes or even PDF files to be stored in my opinion. \n\nLike a class syllables or an article that I read they are stored in a shelf in GoodNotes4, which is good whereas and GoodNotes5 is different.\nGoodNotes5 display files in folders rather than files in shelves and this is why I don’t like it. However, GoodNotes5 has some good features that I hope they add in GoodNotes4.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id914702788"
+          },
+          "name": {
+            "label": "SeanInfinity"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4686210195"
+        },
+        "title": {
+          "label": "Import downgrade"
+        },
+        "content": {
+          "label": "Importing features are way less helpful than in the past. Do I really have to import 30 documents one at a time for grading? Back to Version 4 for me.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1065766060"
+          },
+          "name": {
+            "label": "hfghfyhfcjfkthc"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4684604357"
+        },
+        "title": {
+          "label": "我闪退了。。。"
+        },
+        "content": {
+          "label": "今天更新之后拿写字延迟偶尔很厉害，然后有几次用橡皮擦的时候疯狂闪退。。。。希望早点修复bug呀，谢谢你们",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id13562741"
+          },
+          "name": {
+            "label": "Beckster6701"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4683933783"
+        },
+        "title": {
+          "label": "Link / Sync to calendar"
+        },
+        "content": {
+          "label": "I love Goodnotes and have been using it for a long time.\n\nI have a developer request- Be am to create a planner that is sync'd with the online / native calendar. My calendar changes frequently and having the ability to have my calendar sync in Goodnotes would the amazing!\n\nI have add this as a request on your site and noticed there are several similar requests put there. \n\nLook forward to this addition!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id458174569"
+          },
+          "name": {
+            "label": "Nialovesss"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4683519949"
+        },
+        "title": {
+          "label": "Love"
+        },
+        "content": {
+          "label": "Love everything except there should be a recorder. Would love to record lectures and play my notes back",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id42207706"
+          },
+          "name": {
+            "label": "iwantsometoo"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4682975375"
+        },
+        "title": {
+          "label": "Great App - easy to navigate ...."
+        },
+        "content": {
+          "label": "Highly recommend this app ... my only request please add a Nib Chisel fountain pen feature.  It would be extremely beneficial feature.  Thank you for creating this note app... the search feature works well for those who take a lot of notes",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1065583053"
+          },
+          "name": {
+            "label": "Snow_Fox20"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4682629536"
+        },
+        "title": {
+          "label": "Good but printing issue is a big deal"
+        },
+        "content": {
+          "label": "I love this app don’t get me wrong but I can’t print full size from my iPad Pro. There is a white border around the page and it shrinks my notes down in the middle. Please fix this because I need to be able to print my notes for school. Other than that it is great.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1017393236"
+          },
+          "name": {
+            "label": "Mr. Bond007"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4682267152"
+        },
+        "title": {
+          "label": "Some improvements and fix needed"
+        },
+        "content": {
+          "label": "Great apps. I enjoy being able to organize materials in FOLDERS like a normal computer interface. Just two things. First, Please make more color available on the tool bar or bookmark; I don’t know what to call it. More color available for quick access would improve work productivity because Users would not need to keep on selecting colors from the color template. Second, when photos are copy and paste into GoodNotes, those photos do NOT APPEAR in the exported PDF. Thank you and keep up your great work! \n\nP.s. please add on bigger brush/pen stroke options. Thanks",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id31909590"
+          },
+          "name": {
+            "label": "BillHeller"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4681745403"
+        },
+        "title": {
+          "label": "No text box option for iPhone"
+        },
+        "content": {
+          "label": "GoodNotes 5 has a text box option on the iPad, but not on the iPhone. This prevents me from using the app on my iPhone since it’s hard to write a legible handwritten note on the iPhone.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id293204111"
+          },
+          "name": {
+            "label": "tonywmd"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4678692959"
+        },
+        "title": {
+          "label": "Presenter mode is lit!"
+        },
+        "content": {
+          "label": "Holy smokes is the new presenter mode a killer feature. It works so well that it’s pretty much a dream from quite a few years ago come true. This is going to transform classroom teaching as well as online teaching. Where was this feature when I worked as a teaching assistant?!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id282154359"
+          },
+          "name": {
+            "label": "parkerjk"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4677626765"
+        },
+        "title": {
+          "label": "Great app, but..."
+        },
+        "content": {
+          "label": "Love good notes 5, however still waiting on those features we lost with good notes 4 (auto backup in particular)! Also it would be nice to have a multiple notes option like notability, and if the toolbar could be moved to the sides (or make it thinner at all) to free up more space when the app is in landscape mode.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2019-10-26T04:25:14-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/rss/customerreviews/id=1444383602/page=10/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=10/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=10/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=9/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=10/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=10/sortby=mostrecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/rss/customerreviews/id=1444383602/page=10/sortby=mostrecent/json"
+    }
+  }
+}

@@ -6,6 +6,8 @@ import time
 import requests
 import csv
 import typing
+from datetime import datetime
+
 
 def is_error_response(http_response, seconds_to_sleep: float = 1) -> bool:
     """
@@ -25,6 +27,7 @@ def is_error_response(http_response, seconds_to_sleep: float = 1) -> bool:
 
     return http_response.status_code != 200
 
+
 def get_json(url) -> typing.Union[dict, None]:
     """
     Returns json response if any. Returns None if no json found.
@@ -39,27 +42,17 @@ def get_json(url) -> typing.Union[dict, None]:
     return json_response
 
 
-
-def getJson(url):
-    response = requests.get(url)
-    return response.json()
-
-
-def getReviews(appID, file_lines, page=1)-> typing.List[list]:
+def get_reviews(appID, file_lines, page=1) -> typing.List[list]:
     print(f'Requesting page {page} of appID {appID}')
     url = 'https://itunes.apple.com/rss/customerreviews/id=%s/page=%d/sortby=mostrecent/json' % (appID, page)
-    data = getJson(url)
+    data = get_json(url)
     if not data:
         return file_lines
 
     feed = data.get('feed')
 
-    if (page > 1):
-        return file_lines
-
     for entry in feed.get('entry'):
         if entry.get('im:name'): continue
-
         review_id = entry.get('id').get('label')
         title = entry.get('title').get('label')
         author = entry.get('author').get('name').get('label')
@@ -68,25 +61,26 @@ def getReviews(appID, file_lines, page=1)-> typing.List[list]:
         rating = entry.get('im:rating').get('label')
         review = entry.get('content').get('label')
         vote_count = entry.get('im:voteCount').get('label')
-        print(review)
-        print("------------------------------------------------------------------")
-        print("------------------------------------------------------------------")
-        print("------------------------------------------------------------------")
         csv_data = [review_id, title, author, author_url, version, rating, review, vote_count]
         file_lines.append(csv_data)
-        # print('"' + '","'.join(csvData) + '"')
 
-    time.sleep(1)
-    return getReviews(appID, file_lines, page + 1)
+    return get_reviews(appID, file_lines, page + 1)
+
+
+def append_date_and_file_type(name) -> typing.AnyStr:
+    current_time = datetime.now()
+    return f'{name}_{current_time.year}_{current_time.month}_{current_time.day}.csv'
 
 
 lines = []
 csvTitles = ['review_id', 'title', 'author', 'author_url', 'version', 'rating', 'review', 'vote_count']
 lines.append(csvTitles)
 
-getReviews(1444383602, lines)
+content = get_reviews(1444383602, lines)
 
-file_path = 'reviews.csv'
-with open('file_path', 'w') as writeFile:
+file_path = append_date_and_file_type('./reviews/reviews')
+with open(file_path, 'w+') as writeFile:
     writer = csv.writer(writeFile)
-    writer.writerows(lines)
+    writer.writerows(content)
+
+print("done")
