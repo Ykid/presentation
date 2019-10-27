@@ -45,7 +45,7 @@ def get_json(url) -> typing.Union[dict, None]:
 
 def get_reviews(appID, file_lines, country, page=1) -> typing.List[list]:
     print(f'Requesting {country} page {page} of appID {appID}')
-    url = 'https://itunes.apple.com/%s/rss/customerreviews/id=%s/page=%d/sortby=mostrecent/json' % (country, appID, page)
+    url = 'https://itunes.apple.com/%s/rss/customerreviews/id=%s/page=%d/sortby=mostrecent/json' % (country, appID, page) #mostrecent or mosthelpful
     data = get_json(url)
     if not data:
         return file_lines
@@ -91,8 +91,8 @@ def scrape_data_and_save(app_id, country_name, country_code):
 
 app_id: int = 1444383602
 
-country_tuples = eng_country_dic.items().extend(cn_country_dic.items())
-for item in country_tuples():
+country_tuples = list(eng_country_dic.items()) + list(cn_country_dic.items())
+for item in country_tuples:
     country_name = item[0]
     country_code = item[1]
     scrape_data_and_save(app_id, country_name, country_code)
