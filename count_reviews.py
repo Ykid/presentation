@@ -14,7 +14,7 @@ plt.figure(figsize=(15, 10))
 pd.Series(country_stat_dict).sort_values(ascending=False).plot.bar(
     color=["#83ffd0", "#c69aff", "#f4e0b0", "#f467ae", "#f26464"])
 plt.xticks(rotation=50)
-plt.xlabel("Country")
+plt.xlabel("District")
 plt.ylabel("Number of Reviews")
 plt.show()
 # plt.savefig("./results/mostrecent/review_stat.png")
