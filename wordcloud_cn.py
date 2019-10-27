@@ -10,7 +10,7 @@ jieba.enable_parallel(4)
 
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
-d = d + '/word_cloud/examples'
+d = d + '/cn'
 
 stopwords_path = d + '/wc_cn/stopwords_cn_en.txt'
 # Chinese fonts must be set
