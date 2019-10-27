@@ -40,14 +40,24 @@ def jieba_processing_txt(text):
 
 
 def generate_cn_word_cloud(text):
-    wc = WordCloud(font_path=font_path, background_color="white", max_words=200,
-                   random_state=42)
-
-    wc.generate(jieba_processing_txt(text))
-    # create coloring from image
-
+    wc = generate_word_cloud(text)
     plt.figure()
-    # recolor wordcloud and show
     plt.imshow(wc, interpolation="bilinear")
     plt.axis("off")
     plt.show()
+    return plt
+
+
+def generate_cn_word_cloud_and_save(text: str, file_path: str):
+    wc = generate_word_cloud(text)
+    plt.figure()
+    plt.imshow(wc, interpolation="bilinear")
+    plt.axis("off")
+    plt.savefig(file_path)
+
+
+def generate_word_cloud(text: str):
+    wc = WordCloud(font_path=font_path, background_color="white", max_words=200, width=1000, height=860,
+                   random_state=42)
+    wc.generate(jieba_processing_txt(text))
+    return wc
