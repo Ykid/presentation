@@ -8,6 +8,15 @@ import csv
 import typing
 from datetime import datetime
 
+eng_country_dic = {
+    'United_States': 'us',
+    'India': 'in',
+    'Philippines': 'ph',
+    'Canada': 'ca',
+    'Australia': 'au',
+    'HongKong': 'hk'
+}
+
 
 def is_error_response(http_response, seconds_to_sleep: float = 1) -> bool:
     """
@@ -42,14 +51,16 @@ def get_json(url) -> typing.Union[dict, None]:
     return json_response
 
 
-def get_reviews(appID, file_lines, page=1) -> typing.List[list]:
-    print(f'Requesting page {page} of appID {appID}')
-    url = 'https://itunes.apple.com/rss/customerreviews/id=%s/page=%d/sortby=mostrecent/json' % (appID, page)
+def get_reviews(appID, file_lines, country, page=1) -> typing.List[list]:
+    print(f'Requesting {country} page {page} of appID {appID}')
+    url = 'https://itunes.apple.com/%s/rss/customerreviews/id=%s/page=%d/sortby=mostrecent/json' % (country, appID, page)
     data = get_json(url)
     if not data:
         return file_lines
 
     feed = data.get('feed')
+    if not feed.get('entry'):
+        return get_reviews(appID, file_lines, country, page + 1)
 
     for entry in feed.get('entry'):
         if entry.get('im:name'): continue
@@ -64,7 +75,8 @@ def get_reviews(appID, file_lines, page=1) -> typing.List[list]:
         csv_data = [review_id, title, author, author_url, version, rating, review, vote_count]
         file_lines.append(csv_data)
 
-    return get_reviews(appID, file_lines, page + 1)
+    time.sleep(1)
+    return get_reviews(appID, file_lines, country, page + 1)
 
 
 def append_date_and_file_type(name) -> typing.AnyStr:
@@ -72,15 +84,21 @@ def append_date_and_file_type(name) -> typing.AnyStr:
     return f'{name}_{current_time.year}_{current_time.month}_{current_time.day}.csv'
 
 
-lines = []
-csvTitles = ['review_id', 'title', 'author', 'author_url', 'version', 'rating', 'review', 'vote_count']
-lines.append(csvTitles)
+def scrape_data_and_save(app_id, country_name, country_code):
+    print(f"start to scrape {country_name}")
+    lines = []
+    csv_titles = ['review_id', 'title', 'author', 'author_url', 'version', 'rating', 'review', 'vote_count']
+    lines.append(csv_titles)
+    content = get_reviews(app_id, lines, country_code)
+    file_path = append_date_and_file_type(f'./reviews/{country_name}/reviews_{country_name}')
+    with open(file_path, 'w') as writeFile:
+        writer = csv.writer(writeFile)
+        writer.writerows(content)
+    print(f"done writing to {country_name}")
 
-content = get_reviews(1444383602, lines)
 
-file_path = append_date_and_file_type('./reviews/reviews')
-with open(file_path, 'w') as writeFile:
-    writer = csv.writer(writeFile)
-    writer.writerows(content)
-
-print("done")
+app_id: int = 1444383602
+for item in eng_country_dic.items():
+    country_name = item[0]
+    country_code = item[1]
+    scrape_data_and_save(app_id, country_name, country_code)
