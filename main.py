@@ -79,7 +79,7 @@ lines.append(csvTitles)
 content = get_reviews(1444383602, lines)
 
 file_path = append_date_and_file_type('./reviews/reviews')
-with open(file_path, 'w+') as writeFile:
+with open(file_path, 'w') as writeFile:
     writer = csv.writer(writeFile)
     writer.writerows(content)
 
