@@ -57,7 +57,7 @@ def generate_cn_word_cloud_and_save(text: str, file_path: str):
 
 
 def generate_word_cloud(text: str):
-    wc = WordCloud(font_path=font_path, background_color="white", max_words=200, width=1000, height=860,
+    wc = WordCloud(font_path=font_path, background_color="white", width=1520, height=1020,
                    random_state=42)
     wc.generate(jieba_processing_txt(text))
     return wc

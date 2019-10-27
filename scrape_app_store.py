@@ -7,19 +7,7 @@ import requests
 import csv
 import typing
 from datetime import datetime
-
-eng_country_dic = {
-    'United_States': 'us',
-    'India': 'in',
-    'Philippines': 'ph',
-    'Canada': 'ca',
-    'Australia': 'au',
-    'HongKong': 'hk'
-}
-
-cn_country_dic = {
-    'Mainland_China': 'cn'
-}
+from countries import *
 
 
 def is_error_response(http_response, seconds_to_sleep: float = 1) -> bool:
@@ -102,8 +90,9 @@ def scrape_data_and_save(app_id, country_name, country_code):
 
 
 app_id: int = 1444383602
-for item in eng_country_dic.items():
+
+country_tuples = eng_country_dic.items().extend(cn_country_dic.items())
+for item in country_tuples():
     country_name = item[0]
     country_code = item[1]
     scrape_data_and_save(app_id, country_name, country_code)
-
