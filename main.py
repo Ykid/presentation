@@ -17,6 +17,10 @@ eng_country_dic = {
     'HongKong': 'hk'
 }
 
+cn_country_dic = {
+    'Mainland_China': 'cn'
+}
+
 
 def is_error_response(http_response, seconds_to_sleep: float = 1) -> bool:
     """
@@ -102,3 +106,4 @@ for item in eng_country_dic.items():
     country_name = item[0]
     country_code = item[1]
     scrape_data_and_save(app_id, country_name, country_code)
+
