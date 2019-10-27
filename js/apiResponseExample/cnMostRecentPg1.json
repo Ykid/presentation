@@ -1,0 +1,2418 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id543313514"
+          },
+          "name": {
+            "label": "hzHiBoy"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "5020845689"
+        },
+        "title": {
+          "label": "GoodNotes5的WiFi传输去哪了？"
+        },
+        "content": {
+          "label": "GoodNotes5的WiFi传输功能去哪了？找不到了，每次都要上传至GoodNotes4后再导入到GoodNotes5中，太麻烦了😭😭😭😭😭😭😭😭😭😭😭😭😭",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1037008197"
+          },
+          "name": {
+            "label": "gomnitrix"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "5020808520"
+        },
+        "title": {
+          "label": "Pencil 用着一堆bug 能不能尽快修复啊"
+        },
+        "content": {
+          "label": "最近用的时候遇到一堆bug 都得重启才好 还很频繁 体验极差\n1 笔会突然失灵写不了字 但是用笔点按钮什么的都是可以的就是写不了字\n2 也是写不了字但是我发现是落笔的一瞬间会自动切成橡皮抬笔就又切回笔了 然后就疯狂鬼畜\n还有一些别的记不太住 都是很影响体验的bug 更新也没见好 以前4用着很好。。希望快点修复 糟心",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id553869012"
+          },
+          "name": {
+            "label": "矢志不渝滴"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5020311837"
+        },
+        "title": {
+          "label": "任务栏"
+        },
+        "content": {
+          "label": "为什么不能自定义任务栏的位置呢？",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1077457808"
+          },
+          "name": {
+            "label": "海盐系"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "5020295280"
+        },
+        "title": {
+          "label": "更新后有bug"
+        },
+        "content": {
+          "label": "版本更新之后出现bug了，笔写出来是荧光笔或橡皮擦，三者之间的转换也总是卡，半天转不过来，心累，下次再也不更新了",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id382931625"
+          },
+          "name": {
+            "label": "叫我小米"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "5020242195"
+        },
+        "title": {
+          "label": "写不了字"
+        },
+        "content": {
+          "label": "为什么经常性的写不了字，就是用两指可以移动屏幕，但是一指的时候写不了字，不知道为什么，必须得退出再打开才能写，然后写一会儿又不能写了。请问究竟怎么解决这个问题",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1008819904"
+          },
+          "name": {
+            "label": "纯白半夏6"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5019957895"
+        },
+        "title": {
+          "label": "非常好用"
+        },
+        "content": {
+          "label": "希望可以增加自由改变PDF阅读背景的功能，因为虽然设置成夜间模式，但PDF文件还是白色的，阅读起来很费眼睛。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id344356839"
+          },
+          "name": {
+            "label": "daisy27777"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "5019609253"
+        },
+        "title": {
+          "label": "急急急急！软件一直闪退谁能救救我"
+        },
+        "content": {
+          "label": "今天用goodnotes 一直闪退一直闪退，重启机器好几次还是不行，我的各种东西都在里面啊，我现在不能学习了，谁能救救我啊！！！！！！！！！！根本就进不去，之前闪退再进去就好了，今天就是一点进去就闪退，其他别的软件都没事只有它不行！！！！怎么办啊！！！！！！！！\n重新卸载了再下还是不行！开发者可不可以看看干净帮我啊！马上要考试所有笔记都在里面了！现在根本没法学习啊",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id583408280"
+          },
+          "name": {
+            "label": "aaboss5"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5019472360"
+        },
+        "title": {
+          "label": "需要小改进"
+        },
+        "content": {
+          "label": "期待更新写字时自动隐藏工具栏的功能，希望修复使用Apple Pencil时的断触问题。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id480469692"
+          },
+          "name": {
+            "label": "柴萍萍Tbno"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5019441248"
+        },
+        "title": {
+          "label": "强烈建议ppt模式下可以自己设置红色荧光笔的消失时间"
+        },
+        "content": {
+          "label": "既然是ppt模式那么好的时候想在上面写字勾画 但是消失时间约为一秒，好多时候感觉极不适应，希望能自己设置消失时间，一秒到10秒的范围 或者 希望开发者能改善一下",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id937192855"
+          },
+          "name": {
+            "label": "我萌的快发芽了"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5019287763"
+        },
+        "title": {
+          "label": "我的iPad更新之后不能分屏啊咋回事嘞"
+        },
+        "content": {
+          "label": "哇的一声哭出来",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id469656326"
+          },
+          "name": {
+            "label": "-.hb99"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5018735391"
+        },
+        "title": {
+          "label": "橡皮擦功能最近老是出错"
+        },
+        "content": {
+          "label": "希望引起开发人员的注意 最近橡皮擦功能经常出现不能使用的现象 而且还存在卡顿",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1062124069"
+          },
+          "name": {
+            "label": "香菜不爱香菜"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5018675269"
+        },
+        "title": {
+          "label": "？为什么要把多任务窗口这个功能给取消掉啊？？"
+        },
+        "content": {
+          "label": "（希望被看到！！）多任务文件转换窗口很方便啊！它有它存在的道理，文件多的时候文件直接换来换去不是很方便吗？为什么要取消掉呢？（因为屏占比？但也不是大碍啊。）因为要看的资料很多，这样退出去又回来超级不方便呐！害，真的不明白为什么要取消掉多任务窗口，虽然iPadOS系统中good notes也可以内分屏了，但并不是时时会用内分屏啊，总体来说还是没有那样直接换方便呐？！☹️",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1069838857"
+          },
+          "name": {
+            "label": "wip'L"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5018561282"
+        },
+        "title": {
+          "label": "需要更强大的功能"
+        },
+        "content": {
+          "label": "1，画图不是很好用，有时想画个矩形，都不是很方便\n2，数据备份功能太单一，只有iCloud备份选项，iCloud又很贵，如果有onedrive备份选项就完美了，onedrive有5t的免费空间，可以存很多很多文稿",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id394909210"
+          },
+          "name": {
+            "label": "同而"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5017386215"
+        },
+        "title": {
+          "label": "很好用"
+        },
+        "content": {
+          "label": "希望可以出mac版",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id871994959"
+          },
+          "name": {
+            "label": "bright星芒"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5017369183"
+        },
+        "title": {
+          "label": "创建图片后文稿页面卡死"
+        },
+        "content": {
+          "label": "创建图片文稿后文稿页面卡死",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1036260818"
+          },
+          "name": {
+            "label": "Cherlny"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "5017251496"
+        },
+        "title": {
+          "label": "复制bug"
+        },
+        "content": {
+          "label": "从一开始用goodnotes 4到现在用5，明显发现了goodnotes 5的复制有问题，第二次复制的内容永远都是第一次的，要一直撤销才可以复制第二次的内容，另外，自己用keynote做的笔记本，如果有表格就没有办法进行复制，这也是bug，真的很失望对goodnotes，让我对手写的体验感完全丧失，因为不正是因为电子版可以复制才更好用的吗？除此之前，goodnotes一开始说让笔记本电子化，或者是说让电子笔记本更加像书本，却因为封面上的星星标志导致完全不像了，这一点我认为4就做的很好，点进去一看就知道是书本，现在却完全没有了这个优势。希望尽快改进，谢谢。\n\n20191026\n今日发现超链接的跳转有问题，时灵时不灵，特别是如果是很小很小的跳转标志，完全没有反应。以前4没有这个问题。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id603350410"
+          },
+          "name": {
+            "label": "大长腿就是任性"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5016872777"
+        },
+        "title": {
+          "label": "希望可以不同的文件能设置不同的滚动方向，谢谢！"
+        },
+        "content": {
+          "label": "希望可以不同的文件能设置不同的滚动方向，谢谢！",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1091795914"
+          },
+          "name": {
+            "label": "nooneert"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5014574910"
+        },
+        "title": {
+          "label": "Hope add new pen type which is pencil"
+        },
+        "content": {
+          "label": "Like I said",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id635443312"
+          },
+          "name": {
+            "label": "hsjfhjsj"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5013318001"
+        },
+        "title": {
+          "label": "hope there can be some advances in speaking input and video input"
+        },
+        "content": {
+          "label": "ps：I used this app very much sometimes，it’s very good and helpful，but I do think that updating in terms of speech input will be very convenient and make a good cooperation，if you really do it, guys ,it would be very thankful.Wishfully to use it one day,and have a nice day.\nps again：haha ，hope video input can also be added in ,bisous bisous\nHai,Again,haha,would be possible for you guys to add Cloud synchronous update function there?Very forward-looking,ya",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id973198873"
+          },
+          "name": {
+            "label": "immmmmmmmortal"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "5012769799"
+        },
+        "title": {
+          "label": "为什么iPad和iPhone上不能同步！"
+        },
+        "content": {
+          "label": "卸载重装也无用",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id451687699"
+          },
+          "name": {
+            "label": "薛定谔不养狗"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5012588399"
+        },
+        "title": {
+          "label": "好用"
+        },
+        "content": {
+          "label": "软件很不错",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id431658049"
+          },
+          "name": {
+            "label": "匿名1122333"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5012588241"
+        },
+        "title": {
+          "label": "蛮好用的一款笔记软件"
+        },
+        "content": {
+          "label": "很好用，希望有录音功能和导入网页功能等的加入。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1012570792"
+          },
+          "name": {
+            "label": "澈雪熒霜"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "5012231105"
+        },
+        "title": {
+          "label": "新版bug"
+        },
+        "content": {
+          "label": "点开窗口再点其他地方窗口消失的时候动画极其不流畅，是先消失阴影然后突然没有而不是渐隐，希望早日修复。（点纸面会出现不流畅的效果，但点纸面外区域时消失动画就是流畅的）\n新版还是没有解决...我看到了其他用户也反馈了这个问题，希望能早日解决\n这个bug都持续了三个版本了！逼我降星吗orz\n好了现在连续五个版本（好像更多）持续这个bug了",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1091494214"
+          },
+          "name": {
+            "label": "拟南芥i"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "5011136368"
+        },
+        "title": {
+          "label": "无法导入PDF"
+        },
+        "content": {
+          "label": "强烈疑问为什么我的PDF无法导入！！只能导入PPT",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1080955148"
+          },
+          "name": {
+            "label": "反弹的规划女方"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5010889974"
+        },
+        "title": {
+          "label": "能否增加横屏双面功能"
+        },
+        "content": {
+          "label": "目前对于笔记书写这个功能做的很强了，不过对于导入的书籍的一些做笔记还不是很舒畅，希望能增加横屏的双面展示功能，方便对导入的书籍进行阅读以及勾画、做笔记。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1042411871"
+          },
+          "name": {
+            "label": "璇琨"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5010728933"
+        },
+        "title": {
+          "label": "PDF纸张颜色"
+        },
+        "content": {
+          "label": "建议可以加入护眼纸类型，阅读感受会更好",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1050480998"
+          },
+          "name": {
+            "label": "药药夫斯基"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5010683351"
+        },
+        "title": {
+          "label": "支持创建二级目录吗"
+        },
+        "content": {
+          "label": "导入的pdf有二级目录但不完整，想手动创建不知道怎么办，是不支持吗？",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id403397494"
+          },
+          "name": {
+            "label": "板米"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5010313995"
+        },
+        "title": {
+          "label": "关联Onedrive"
+        },
+        "content": {
+          "label": "什么时候可以关联OneDrive 呢？",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id443196942"
+          },
+          "name": {
+            "label": "花花鼓风机这女的 v 吃的"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "5010244855"
+        },
+        "title": {
+          "label": "挺好用的"
+        },
+        "content": {
+          "label": "很好用",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1033643181"
+          },
+          "name": {
+            "label": "昵称。。。。。。。。？？？？"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5010239101"
+        },
+        "title": {
+          "label": "Bhj"
+        },
+        "content": {
+          "label": "让我喜欢上了做笔记，省时省力又美观，吹爆",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1042536407"
+          },
+          "name": {
+            "label": "gdhsdjffgjsd"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5010048607"
+        },
+        "title": {
+          "label": "笔画往回缩"
+        },
+        "content": {
+          "label": "其他都还好",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id580732312"
+          },
+          "name": {
+            "label": "仲恒Rachel"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5009917683"
+        },
+        "title": {
+          "label": "想来想去还是花钱买了它 知识付费是趋势也是对脑力劳动者的尊重"
+        },
+        "content": {
+          "label": "真好用！个人觉得比notability好用，因为画图形的时候非常方便，而且界面也好看，可以导入自己想要的封面。但是稍微有点儿美中不足的就是，不能录音记笔记，如果能把这个功能整合进来，我觉得就很完美了，UI体验感是真的很好👍超级棒！加油啊，程序员们辛苦啦！",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id986212696"
+          },
+          "name": {
+            "label": "开心wsl"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5009807349"
+        },
+        "title": {
+          "label": "好用"
+        },
+        "content": {
+          "label": "要是有周计划表就好了",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1043935057"
+          },
+          "name": {
+            "label": "萧.云"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5009775254"
+        },
+        "title": {
+          "label": "新功能"
+        },
+        "content": {
+          "label": "有没有一个可以改变字颜色的功能，有时拿一只笔写多了要擦掉很多重头开始写",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1053568550"
+          },
+          "name": {
+            "label": "瑶兮爱吃冰淇淋"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "5009576140"
+        },
+        "title": {
+          "label": "对于iPad新系统的闪退问题"
+        },
+        "content": {
+          "label": "苹果对于iPad推出专门的系统之后，gooodnotes就开始出现各种问题。而今天我短短的一个小时使用时间内，它闪退了四五次。以及之前遇到的个别时候无法对文案进行编辑和做笔记，荧光笔点不出，点出又无法划线。记录用的笔无法写字，橡皮无法清除。应用反应迟钝。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id465650866"
+          },
+          "name": {
+            "label": "mayer330"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5009573439"
+        },
+        "title": {
+          "label": "纸张样板模式"
+        },
+        "content": {
+          "label": "是否可以自定义纸张样板模式呀",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id938837419"
+          },
+          "name": {
+            "label": "瑞TZOE"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "5009567269"
+        },
+        "title": {
+          "label": "针对goodnotes5"
+        },
+        "content": {
+          "label": "在ipad2018上面写字明显有延迟，相比之下goodnote4要好得多，在goodnote4上面写字很舒服",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id354716695"
+          },
+          "name": {
+            "label": "AshDeadPool"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5008987795"
+        },
+        "title": {
+          "label": "很喜欢很好用"
+        },
+        "content": {
+          "label": "请问一下能否批量导入图片？一张一张添加图片页面有点麻烦……",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id474947240"
+          },
+          "name": {
+            "label": "FreayaFyf"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5007828032"
+        },
+        "title": {
+          "label": "很不错的app"
+        },
+        "content": {
+          "label": "超级喜欢这个app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1078507414"
+          },
+          "name": {
+            "label": "KatMeowCat"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5007706573"
+        },
+        "title": {
+          "label": "记笔记，看书都好用"
+        },
+        "content": {
+          "label": "用goodnotes做题很好用。看书也不错，不过看书的话有更适合的。字写出来还算好看。功能都用得上而且够用。喜欢横向翻页。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1037093326"
+          },
+          "name": {
+            "label": "努力考上研究生！"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "5007582614"
+        },
+        "title": {
+          "label": "为什么pencil会失灵用这个软件？"
+        },
+        "content": {
+          "label": "如题，还有为什么我的文件显示不全了，一张纸给我放大了，边角都没了",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1082873858"
+          },
+          "name": {
+            "label": "希望改进1997"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5007483259"
+        },
+        "title": {
+          "label": "为什么不能同步到iCloud？确定已经打开同步功能了"
+        },
+        "content": {
+          "label": "为什么不能同步到iCloud？确定已经打开同步功能了",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id155838041"
+          },
+          "name": {
+            "label": "eddfffooiii"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5007248056"
+        },
+        "title": {
+          "label": "什么时候加入密码锁"
+        },
+        "content": {
+          "label": "什么时候加入密码锁",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id510792326"
+          },
+          "name": {
+            "label": "JasonCheck"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5007217074"
+        },
+        "title": {
+          "label": "程序员出来修bug"
+        },
+        "content": {
+          "label": "更新了iPadOS之后出现了好多卡顿，自动关闭等的恶性bug\n程序员赶紧出来修",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id941226063"
+          },
+          "name": {
+            "label": "心殇1"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5006949253"
+        },
+        "title": {
+          "label": "从4到5越来越优秀了，尤其在我觉得比notability还厉害的分屏"
+        },
+        "content": {
+          "label": "但是最近goodnotes不能外界软件导入文件了，尤其是百度云，这简直就是活水失去它的源头啊，迫不得已我奉献了对于软件第一次评论，希望goodnotes能改善一下，更希望goodnotes越来越好",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1001567441"
+          },
+          "name": {
+            "label": "湖南话很好吧"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5006824902"
+        },
+        "title": {
+          "label": "有时闪退"
+        },
+        "content": {
+          "label": "幸好有自动保存",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id991821652"
+          },
+          "name": {
+            "label": "zjjzjzjzz"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5006658063"
+        },
+        "title": {
+          "label": "闪退"
+        },
+        "content": {
+          "label": "导入pdf闪退怎么办？",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id193879937"
+          },
+          "name": {
+            "label": "数学大将军"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5006513423"
+        },
+        "title": {
+          "label": "手机上使用快捷指令进入后无法关闭"
+        },
+        "content": {
+          "label": "使用快捷指令打开文稿后左上角的叉叉点不动，无法退回文件夹菜单。ipad上没问题，只有手机版本的这样",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id435254715"
+          },
+          "name": {
+            "label": "鳏寡孤独和 v"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5006511990"
+        },
+        "title": {
+          "label": "不足"
+        },
+        "content": {
+          "label": "手写字不能转电脑字体。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/cn/reviews/id1061815358"
+          },
+          "name": {
+            "label": "带学习飞"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5006386684"
+        },
+        "title": {
+          "label": "分享选项"
+        },
+        "content": {
+          "label": "为什么更新之后网盘和其他应用分享的选项里没有了，没有了PDF导入它一半用也就没有了啊",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/cn/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "程序"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2019-10-26T09:28:09-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store：用户评论"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://apps.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=cn&id=29099"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=1/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=10/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=1/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/cn/rss/customerreviews/page=2/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/cn/rss/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+    }
+  }
+}

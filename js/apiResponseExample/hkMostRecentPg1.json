@@ -1,0 +1,2418 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id668620602"
+          },
+          "name": {
+            "label": "Angel lyc"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5007645012"
+        },
+        "title": {
+          "label": "Very good but some improvements can be made"
+        },
+        "content": {
+          "label": "1. I need to wait 2-10s when I copy something, which is quite slow and affects my notes jotting experience.\n\n2. I want to pack the colour from my notes but these no such function.\n\n3. Adding audio record function will be great.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id672918847"
+          },
+          "name": {
+            "label": "AC mami"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "5006074899"
+        },
+        "title": {
+          "label": "Good but can be better"
+        },
+        "content": {
+          "label": "I bought this for take notes and be my planner, hope there will provide a calendar paper and update yearly the date in monthly or weekly. In addition, if it add copy book papers that’s will be prefect for practice hand writing with paper waste less",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id1077274781"
+          },
+          "name": {
+            "label": "gsukiii"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "5005374349"
+        },
+        "title": {
+          "label": "goodnotes5"
+        },
+        "content": {
+          "label": "easy for use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id504262337"
+          },
+          "name": {
+            "label": "lindawww"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4997173709"
+        },
+        "title": {
+          "label": "Suddenly lost connection with my Apple Pencil and loss all custom colours"
+        },
+        "content": {
+          "label": "Suddenly lost connection with my Apple Pencil and loss all custom colours. Plz fix it, I am so sad and disappointed with that. I am always a fans for GoodNotes",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id194744255"
+          },
+          "name": {
+            "label": "scottsanett"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4995412681"
+        },
+        "title": {
+          "label": "Battery Drain"
+        },
+        "content": {
+          "label": "Overall a pretty good app and great writing experience, but for some reason the battery drain has been pretty bad since a few updates ago. The machine gets really hot when I have only one tab open. Please roll out a fix!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id1089768459"
+          },
+          "name": {
+            "label": "cywssssss"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4991561363"
+        },
+        "title": {
+          "label": "Solve the problem please"
+        },
+        "content": {
+          "label": "Can select the highlighter ,pen but cannot use in the most time ,can your company solve the problems.It is troubled when there are note taking during lessons",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id677682569"
+          },
+          "name": {
+            "label": "Bosco8212"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4991327848"
+        },
+        "title": {
+          "label": "超好"
+        },
+        "content": {
+          "label": "如果有多啲筆種就好la",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id87104553"
+          },
+          "name": {
+            "label": "kevinlhf"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.6"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4976896575"
+        },
+        "title": {
+          "label": "Good but still buggy"
+        },
+        "content": {
+          "label": "A good apps for taking notes at all.\nHowever, \n1. when I write some words using Apple Pencil 2, the words will disappeared. This issue appear every lesson once or twice.\n2. When I connected to apple TV and try to capture a photo, it can’t edit the photo. This can be done if I disconnect to the Apple TV.\n3. Loading page needs more time (5 seconds) recently. Photo was imported on those pages.\n\nHope the developer helps to solve the problems. Thanks!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id286462505"
+          },
+          "name": {
+            "label": "MsKyt"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.6"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4975019085"
+        },
+        "title": {
+          "label": "Bugs of the application"
+        },
+        "content": {
+          "label": "The highlighter and eraser can’t be used all the time",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id152076650"
+          },
+          "name": {
+            "label": "Nichola."
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.6"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4957896239"
+        },
+        "title": {
+          "label": "New pen texture wanted! Insert table wanted!"
+        },
+        "content": {
+          "label": "I just bought it today and found dissatisfaction straight away. The 3 textures available are too similar and NO insert table function... \nI used to use the iOS default quick note app, the pencil texture within it is my favourite. And there is insert table function.\nI paid GoodNotes and preferred you are better than the DEFAULT app. Please add these! My handwriting looks suck using the 3 textures you are currently available, and mess around without table. (Table as part of page only, not full page with you default layout)",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id251912525"
+          },
+          "name": {
+            "label": "peteanr"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.6"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4953525638"
+        },
+        "title": {
+          "label": "Demand Refund"
+        },
+        "content": {
+          "label": "This app completely disappointed me.\nI spend whole day to finish my work and try to save as PDF file.\n\nBut the PDF file is completely blank!!\nAll pictures cannot be shown in pdf format\n\nSo this app cannot be used to share any document.\nPeople other than you cannot view your note done by this app.\n\nWaste my time.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id556110375"
+          },
+          "name": {
+            "label": "Optimism not always"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.4"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4945405131"
+        },
+        "title": {
+          "label": "Can’t import PDF"
+        },
+        "content": {
+          "label": "The new update version cannot import PDF file, please help to fix it, it is very important functions on this app. Thanks for all your hard works.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id931661071"
+          },
+          "name": {
+            "label": "uuuvvvhku"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.4"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4944893039"
+        },
+        "title": {
+          "label": "Hope for Split screen function"
+        },
+        "content": {
+          "label": "I’ve been waiting for so long for any updates on split screen function within the app. Please consider it.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id624092280"
+          },
+          "name": {
+            "label": "verypk"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4940117433"
+        },
+        "title": {
+          "label": "升級後有點問題"
+        },
+        "content": {
+          "label": "1. 找不到如何在google drive中批量匯入\n2. Google drive 匯入時不能更新google drive 內容\n3. 如何像Goodnotes 4 freeze 畫面?",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id183078395"
+          },
+          "name": {
+            "label": "Pickar Boy"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4936320365"
+        },
+        "title": {
+          "label": "Great for Studying"
+        },
+        "content": {
+          "label": "As a university student, GoodNotes gives me the opportunity to store all my lectures, exercises, and notes in 1 app. With its great file management, I can make folders to divide each of my subjects into its separate location.\n\nThe ability to import any pdf into the app and annotate it makes this app very valuable for university students and teachers alike. Everything is digital and with a constant pressure to go green, this app helps.\n\nThe scrolling through documents is enjoyable, and the controls are responsive at all times. I have never had an issue with document browsing.\n\nThe ability to open the app in two different instances and do true split screen is a god send. I can have notes and lectures open simultaneously and take notes, whilst annotating, whilst reading.\n\n`Nuff said. Get this app. If you’re a uni student, you will guaranteed like it.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id642755719"
+          },
+          "name": {
+            "label": "kdkaerk"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4918180539"
+        },
+        "title": {
+          "label": "Great Lol"
+        },
+        "content": {
+          "label": "No one care Fun cafr lip 123 456 789 ododoordhsgngrnnsnsepylpiy乛t就e就jaegeslmltgh😨😤🤕😤🤯🤑😮😮😵😵😵😧",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id1081981171"
+          },
+          "name": {
+            "label": "Tofu kei"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4913856663"
+        },
+        "title": {
+          "label": "About the control of rolling the pages"
+        },
+        "content": {
+          "label": "1. It is better to add a control button at the side of the screen so we can roll to the other page quickly. \n2. The no. of page can be shown for reference as it is quite uncomfortable when viewing a hundred page of document.\n3. The texture of the highlight pen can be improved. The one in iPad’s Document function is much more delicate.\n4. Can add a pencil, just like the one in iPad Document.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id1068586057"
+          },
+          "name": {
+            "label": "shi3717"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4913354277"
+        },
+        "title": {
+          "label": "good"
+        },
+        "content": {
+          "label": "I think it would be better if there’s an ‘endless page’ as one of templates. (as apple note can write/scroll down infinitely.)",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id101492229"
+          },
+          "name": {
+            "label": "Mr. vampirebb"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4909163243"
+        },
+        "title": {
+          "label": "超好用的app"
+        },
+        "content": {
+          "label": "連續用了幾代，非常好用的app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id443082161"
+          },
+          "name": {
+            "label": "DevinTanggggg"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4903310292"
+        },
+        "title": {
+          "label": "PDF文字不能選取"
+        },
+        "content": {
+          "label": "由4升5後 PDF檔（ppt轉pdf)文字不能選取了，4的時候是可以的。一些不會的英文生字不能即時用內建辭典查閱，變麻煩了。後悔買了5。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id452965656"
+          },
+          "name": {
+            "label": "HeyleeHomi"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4900068981"
+        },
+        "title": {
+          "label": "再加上一些輔肋，就更加好了"
+        },
+        "content": {
+          "label": "例如：\n有些筆記可以加入密碼，因為有些內容關於自己的，怕被別人看見。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id275495668"
+          },
+          "name": {
+            "label": "royabc"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4885023161"
+        },
+        "title": {
+          "label": "please support cloud services back up"
+        },
+        "content": {
+          "label": "as title.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id107078095"
+          },
+          "name": {
+            "label": "ansel.wong"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4875982074"
+        },
+        "title": {
+          "label": "Not able for multi-selection to import the file from Dropbox"
+        },
+        "content": {
+          "label": "I’ve used and paid this apps for nearly 7 yrs. \nI love the previous versions and just upgrade to 5.0.  However, I can’t select the files multiply from Dropbox, which makes me to select and import one by one, and it makes me waste a lot of time. \nPlease help to rectify and allow this function in the new version.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id111359154"
+          },
+          "name": {
+            "label": "K.H. Wong"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.3"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4871487341"
+        },
+        "title": {
+          "label": "Ruler"
+        },
+        "content": {
+          "label": "I’m a math teacher. I used GoodNotes as an electronic white board. Can a ruler tool be added in GoodNotes? It’s very hard to draw a precise line.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id173661619"
+          },
+          "name": {
+            "label": "Jooooole"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.2"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4865939728"
+        },
+        "title": {
+          "label": "Tool bar a little too big"
+        },
+        "content": {
+          "label": "Updated: \n\nI wanted to use this new updated version so badly so i gave this another try. However, when I tried to move my files to GoodNotes 5, it only imported some of the files, not all. I had to manually check and see which have not been imported and did it myself. Not only that, the eraser on the updated version doesn’t work properly. What’s going on GoodNotes? \n\n \nDownloaded the 1st time: \nI’ve just updated to GoodNotes 5 so I’m still trying to figure out and feel the new layout and organization of folders etc. And will post an update review late. \n\nMy first impression of the 5 is that the tool bar is little too big compare to the 4, I absolutely love the previous one, simple and straight forward.  However this new update I feel it’s taking up a little too much screen space, and this is very important then you are working on a 10.5 or even smaller screen iPad. \n\nI also notice that when turning the iPad the transition from vertical to horizontal or the other way around isn’t as smooth as it feels compare the 4. Hopefully they will change that.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id296096969"
+          },
+          "name": {
+            "label": "Leewankiu"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.1"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4856963390"
+        },
+        "title": {
+          "label": "Handwriting in GoodNotes 5 not as smooth as GoodNotes 4"
+        },
+        "content": {
+          "label": "The hand writing algorithm is worse than the previous version. Strokes are sometimes straightened especially when the font size is small. Handwriting is laggy as well. The line drawing tool is really bad compared to Notability.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id1078471003"
+          },
+          "name": {
+            "label": "gpacrisis"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.1"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4840535691"
+        },
+        "title": {
+          "label": "Bug"
+        },
+        "content": {
+          "label": "I am using iPad 2019. When I going to edit a PowerPoint file, I found that this program cannot show a full slide. It can only real around 80% of a side. PDF file do not have this problem. Plz fix.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id792620096"
+          },
+          "name": {
+            "label": "cha erni"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.1"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4835303954"
+        },
+        "title": {
+          "label": "Soooooooooo useful for teaching"
+        },
+        "content": {
+          "label": "I teach the early years and Goodnotes helps me so well in keeping my lesson plans all in one place! I love that I can sync it to my phone as well so that I can look at my notes while on commute and I only have 1 free hand. This app is perfect for going paperless.\n\nLove love LOOOOVE it!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id570744112"
+          },
+          "name": {
+            "label": "Doris Cheung"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.0"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4830177086"
+        },
+        "title": {
+          "label": "Disappointed"
+        },
+        "content": {
+          "label": "I cannot find the file in the iCloud Drive. Furthermore, I cannot insert some ppt file in the goodnotes 5.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id918359620"
+          },
+          "name": {
+            "label": "Kennie HK"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.0"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4828927851"
+        },
+        "title": {
+          "label": "Problem about the update"
+        },
+        "content": {
+          "label": "I can’t open this app after the latest update",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id47693718"
+          },
+          "name": {
+            "label": "fatetakamachi"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.0"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4828352012"
+        },
+        "title": {
+          "label": "5.3 Keeps crashing on iOS 13"
+        },
+        "content": {
+          "label": "Once i updated to 5.3 for my iPad Pro, it keeps crashing and totally unusable. I do appreciate the new split screen function and dark mode but only when I can actually use the app. Please fix it ASAP.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id300204457"
+          },
+          "name": {
+            "label": "Johnchan9941"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.3.0"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4827965425"
+        },
+        "title": {
+          "label": "方便好用"
+        },
+        "content": {
+          "label": "方便好用，\n分開每一本\n記錄",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id675619560"
+          },
+          "name": {
+            "label": "athinla"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.3"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4776990947"
+        },
+        "title": {
+          "label": "wacom stylus removed"
+        },
+        "content": {
+          "label": "only support apple pencil. previously supported wacom stylus removed. switch back to gn4",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id1073105497"
+          },
+          "name": {
+            "label": "/）vvhedvekfbkrfbbefbrfbrgbg"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.2"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4770490534"
+        },
+        "title": {
+          "label": "Words disappear"
+        },
+        "content": {
+          "label": "I don't know why the words i wrote will disappear suddenly!\nThat's is so confusing.........\nAnd the support process is so long that i think this problem will never be solved quickly.....😞😞",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id147104282"
+          },
+          "name": {
+            "label": "Magnitique"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4741398833"
+        },
+        "title": {
+          "label": "Great update"
+        },
+        "content": {
+          "label": "Overall a great update to GoodNotes 4. Especially love the vertical scrolling option. However I can’t rename / name my bookmarked (favorited) pages now. Has this function been hidden somewhere?\n\nEdited 20/1/2019: after using further for a while, I took off one star. I concur with other users that the inking does need polishing\n1) there is considerable latency in inking with my Apple Pencil as compared with GoodNotes 4 and Notability 4 (now Notability has the smoothest and most responsive ink)\n2) there is a bit overzealous straightening of curves. For example, if I write “5” too quick, the bottom curve would be straightened out to 2 or 3 straight lines. I wonder if that has any relation to the longer latency for inking\n\nEdited 7/9/2019: inking has improved considerably now, the aforementioned issues with lag and straightening issue seems to have resolved. Also they’ve added a presentation mode again. Going from 4 to 5 stars!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id138025312"
+          },
+          "name": {
+            "label": "choochooyo"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.1"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "id": {
+          "label": "4729132687"
+        },
+        "title": {
+          "label": "Love 4 more than 5! Please change colour!"
+        },
+        "content": {
+          "label": "I’m a fan of Goodnotes, but I thought there’s a free upgrade, but then it led me to purchase for 5??\n\nMost importantly, now the editing bar is in a blue colour, that looks like I’m using word a lot... could you allow us to customise the colour, or at least change it back to white please? Aesthetically important.....",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id204004919"
+          },
+          "name": {
+            "label": "Ball fat"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.1"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4717932277"
+        },
+        "title": {
+          "label": "No Google drive auto backup"
+        },
+        "content": {
+          "label": "In GoodNotes 4, we can automatically back up our files in google drive and see it in computer. However, in GoodNotes 5 we lost this function. Plz add it back!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id414100804"
+          },
+          "name": {
+            "label": "StudentRen"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2.1"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4717776815"
+        },
+        "title": {
+          "label": "Delayed response when writing"
+        },
+        "content": {
+          "label": "Sometimes I just can’t write. Serious delaying problem that the pen mark does not follow the speed of my writing. It did not happen in version 4 before. How can it happen in an updated version instead?",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id383811206"
+          },
+          "name": {
+            "label": "So_Unhappy_"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.2"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4678081180"
+        },
+        "title": {
+          "label": "Great app but found one bug"
+        },
+        "content": {
+          "label": "The app is really great for handwriting notes. However, when I want to type in some texts, I found that even if I switched the color to blue (or any other colors) before typing, the text color would automatically change back to red when typing. This is quite annoying and cost me a lot of time. Could you please fix this????????",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id661491132"
+          },
+          "name": {
+            "label": "jzkzlakZbjcm"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4670500613"
+        },
+        "title": {
+          "label": "轉字體及字體顏色有問題"
+        },
+        "content": {
+          "label": "要打字會用「T」，想轉顏色時，成日都會自動再轉回黑色",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id156578847"
+          },
+          "name": {
+            "label": "Amazing JM"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4638904437"
+        },
+        "title": {
+          "label": "GoodNotes 5 review"
+        },
+        "content": {
+          "label": "I have not use it well yet but so far I feel in notes prospective is very good and easy to use.\nAt present, my only comments is the options on pens!  It would be so much better if you could provide more choices e.g. pencil is very important for notes taking.\nMay come back for more reviews once I practice a bit more.  Thank you",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id350310335"
+          },
+          "name": {
+            "label": "zhpj"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4632134848"
+        },
+        "title": {
+          "label": "求分屏"
+        },
+        "content": {
+          "label": "Help: I hope to read pdf and take notes on the same page!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id160162589"
+          },
+          "name": {
+            "label": "iOsuka"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4620892333"
+        },
+        "title": {
+          "label": "Best app for university students"
+        },
+        "content": {
+          "label": "Perfect for organising your notes",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id107094664"
+          },
+          "name": {
+            "label": "12345678qwertyui"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.7"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4613327722"
+        },
+        "title": {
+          "label": "有Bug"
+        },
+        "content": {
+          "label": "編輯後 轉PDF file 用Email send 還會見到 編輯前的內容。",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id884625568"
+          },
+          "name": {
+            "label": "tswwwww"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.6"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "id": {
+          "label": "4612591453"
+        },
+        "title": {
+          "label": "Please allow us to import several documents at the same time"
+        },
+        "content": {
+          "label": "It is a very good app for students to study. However, it is extremely inconvenient for us to import documents one by one each time. I really hope that a function can be added, such that we can import several documents at one time. Thanks for reading this and I hope you can take my opinion into consideration.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id482855236"
+          },
+          "name": {
+            "label": "j1234ng"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.5"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4566543321"
+        },
+        "title": {
+          "label": "Good"
+        },
+        "content": {
+          "label": "Good",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id789751627"
+          },
+          "name": {
+            "label": "hibyetoday"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.5"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4537519480"
+        },
+        "title": {
+          "label": "No multiple documents"
+        },
+        "content": {
+          "label": "No multiple documents can be imported directly. We need to import all documents one by one instead of importing as a bundle of documents. Goodnotes 4 is far more better than this version. Please refund.\n\nThere is a bug. Please fix it. While importing, I dragged and dropped a pdf file and then clicked the cancel at the upper right corner. The file was then put into the folder. When I did the same thing again for another file, the original folder was suddenly emptied. I then clicked another cloud. The same folder was shown with nothing. This is weird. This meant the original folder was hanging and frozen in the same spot.\n\nI finally figured out there was a way to import multiple documents at the same time but it turned out that if I imported more than 5 pdfs at the same time, only few of them were imported. In my case, I imported 16 pdfs. But only 4 pdfs were imported. If I lowered the number of pdfs imported, for example, 6 pdfs, 4 of them were imported and two pdfs couldn’t be imported. The middle two pdfs were missing and I needed to do the importing those 2 missing pdfs again.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id286471069"
+          },
+          "name": {
+            "label": "KLeung @ Herbertson"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.4"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "id": {
+          "label": "4473375564"
+        },
+        "title": {
+          "label": "Cannot link with the adonit pen"
+        },
+        "content": {
+          "label": "How come. There is no reason that it can link with GoodNotes 4, but cannot link with goodnotes 5\n\nWhat’s happened ?",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id285623353"
+          },
+          "name": {
+            "label": "GGGaryDDD"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.4"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "id": {
+          "label": "4452831601"
+        },
+        "title": {
+          "label": "Inserting images from Dropbox fails almost daily"
+        },
+        "content": {
+          "label": "Generally a great app, but when I try to insert images from my Dropbox, 10% of the time it fails and I need to restart the app.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/hk/reviews/id393561263"
+          },
+          "name": {
+            "label": "YannLinjiann"
+          },
+          "label": ""
+        },
+        "im:version": {
+          "label": "5.1.4"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "id": {
+          "label": "4447144847"
+        },
+        "title": {
+          "label": "Bravo"
+        },
+        "content": {
+          "label": "Je suis très content avec cet App. Parce qu’en utilisant un Pdf scanné, quand je tire un trait sous une ligne de texte, il se trouve une propre position entre les lignes. C’est plus intelligent que les autres du même genre.\n\nLe surligneur est aussi réaliste.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/hk/review?id=1444383602&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "應用程式"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2019-10-26T09:29:16-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store：客戶評論"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=hk&id=172314"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/hk/rss/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/hk/rss/customerreviews/page=5/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/hk/rss/customerreviews/page=1/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/hk/rss/customerreviews/page=2/id=1444383602/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/hk/rss/customerreviews/id=1444383602/page=1/sortby=mostrecent/json"
+    }
+  }
+}
