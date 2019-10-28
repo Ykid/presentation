@@ -2,14 +2,16 @@ import pandas as pd
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 from nltk.tokenize import RegexpTokenizer
+from nltk.stem import WordNetLemmatizer
 from countries import eng_country_dic
 
+wordnet_lemmatizer = WordNetLemmatizer()
 tokenizer = RegexpTokenizer(r'\w+')
 
 
 def split_eng_sentences(series: pd.Series) -> pd.Series:
-    lowered = "|".join(series).lower()
-    return pd.Series(tokenizer.tokenize(lowered))
+    lowered = " .".join(series).lower()
+    return pd.Series(tokenizer.tokenize(lowered)).map(lambda w: wordnet_lemmatizer.lemmatize(w, pos="v"))
 
 
 def generate_word_cloud_plot(word_series: pd.Series, stop_words, file_path=None):
@@ -27,10 +29,8 @@ def generate_word_cloud_plot(word_series: pd.Series, stop_words, file_path=None)
         plt.savefig(file_path)
 
 
-print('set up completed')
-
 eng_stopwords = set(STOPWORDS)
-eng_stopwords.update({'goodnotes', 'goodnote', 'note', 'notes', 'app'})
+eng_stopwords.update({'goodnotes', 'goodnote', 'note', 'notes', 'app', 'use'})
 
 
 def generate_title_and_review_plot(path: str, stop_words, country_code: str):
