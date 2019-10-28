@@ -11,12 +11,12 @@ for t in country_tuples:
     country_stat_dict[country_name] = len(df)
 
 ratings_dict = {
-    'Canada': 4.8,
+    'Mainland_China': 4.8,
     'Australia': 4.7,
     'HongKong': 4.7,
     'United_States': 4.7,
     'Philippines': 4.6,
-    'ca': 4.6,
+    'Canada': 4.6,
     'India': 4.6,
 }
 
