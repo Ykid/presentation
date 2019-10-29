@@ -2,5 +2,5 @@
 
 ```
 >>> import nltk
->>> nltk.download()
+>>> nltk.download('wordnet')
 ```
